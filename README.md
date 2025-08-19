@@ -17,7 +17,6 @@
 - 🌱 I’m currently learning **MERN Stack**  
 - 📫 How to reach me **sagrahari227@gmail.com**  
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/ashutosh6608)**  
-- 📄 Know about my experience **[Resume](https://drive.google.com/file/d/1keC9j_4mlGnHbudNhD4HMmPAXkANBOxJ/view?usp=drivesdk)**  
 
 <div>
   <a href="https://www.linkedin.com/in/ashutosh-agrahari-996021259/" target="_blank">
